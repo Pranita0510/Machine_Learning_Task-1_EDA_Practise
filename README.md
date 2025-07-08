@@ -1,4 +1,4 @@
-📊 EDA Practice:
+**📊 EDA Practice:**
 
 This Jupyter Notebook focuses on Exploratory Data Analysis (EDA) using an uncleaned/raw dataset. The notebook includes step-by-step techniques to understand, visualize, and identify issues within raw data before applying preprocessing.
 
